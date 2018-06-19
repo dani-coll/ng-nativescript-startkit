@@ -23,3 +23,6 @@ tns create my-app-name --template https://github.com/NativeScript/template-hello
 ```
 
 **NB:** Please, have in mind that the master branch may refer to dependencies that are not on NPM yet!
+
+
+npm install -g appium
