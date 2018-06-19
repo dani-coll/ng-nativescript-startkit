@@ -1,0 +1,5 @@
+app/**/*.js
+hooks/
+node_modules/
+platforms/
+-vscode/
